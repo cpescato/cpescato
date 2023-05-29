@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there, I'm Camille 👋
 
-<!--
-**cpescato/cpescato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+- 👨‍🎓 <br/>
+BSc & MSc in Life Sciences Engineering | Minor in Neuroprosthetics '23 @ EPFL 🇨🇭 <br/>
+Exchange year @ University of Illinois at Urbana-Champaign '20 🇺🇸 <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤩 <br/>
+I am interested in neurorehabilitation, brain-machine interfaces and research at the interface of medicine and engineering🦿🧠
+
+- 💻 <br/>
+Master Thesis research (March '23 - present) @ Cortical Physiology Laboratory / Massachusetts General Hospital and Harvard Medical School 🧠 <br/>
+Semester Project Researcher (September '22 - January '23) @ Neuroengineering Laboratory / EPFL 🪰 <br/>
+Semester Project Researcher (September '22 - January '23) @ Laboratory for Soft Bioelectronic Interfaces / EPFL 🔬 <br/>
+
+- 🏅 <br/>
+SensUs Student Competition Anlytical Performance & Translational Potential Winning Team '22
+EPFL / HackaHealth Assistive Technologies Challenge '21
+
+- ⚡ <br/>
+In my free time, I like to play the violin 🎻 and hike ⛰️
+
+### Contact 
+
+You can reach me on [my LinkedIn profile](https://www.linkedin.com/in/camille-pescatore/) or by email: [camille.pescatore@epfl.ch](mailto:camille.pescatore@epfl.ch)
