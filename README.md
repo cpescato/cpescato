@@ -23,4 +23,4 @@ In my free time, I like to play the violin 🎻 and hike ⛰️
 
 ### Contact 
 
-You can reach me on [my LinkedIn profile](https://www.linkedin.com/in/camille-pescatore/) or by email: [camille.pescatore@epfl.ch](mailto:camille.pescatore@epfl.ch)
+You can reach me on [my LinkedIn profile](https://www.linkedin.com/in/camille-pescatore/) or by email: [pescatorecamille@gmail.com](mailto:pescatorecamille@gmail.com)
