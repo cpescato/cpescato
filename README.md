@@ -18,9 +18,6 @@ Semester Project Researcher (February'21 - June '21) @ Laboratory for Soft Bioel
 SensUs Student Competition Anlytical Performance & Translational Potential Winning Team '22 <br/>
 EPFL / HackaHealth Assistive Technologies Challenge '21 <br/>
 
-- ⚡ <br/>
-In my free time, I like to play the violin 🎻 and hike ⛰️
-
 ### Publications
 de Miguel-Fernández, J., Pescatore, C., Mesa-Garrido, A., Rikhof, C., Prinsen, E., Font-Llagunes, J. M., & Lobo-Prat, J. (2022). Immediate biomechanical effects of providing adaptive assistance with an ankle exoskeleton in individuals after stroke. IEEE Robotics and Automation Letters, 7(3), 7574-7580.
 
@@ -28,4 +25,4 @@ de Miguel-Fernández, J., Pescatore, C., Mesa-Garrido, A., Rikhof, C., Prinsen, 
 
 ### Contact 
 
-You can reach me on [my LinkedIn profile](https://www.linkedin.com/in/camille-pescatore/) or by email: [pescatorecamille@gmail.com](mailto:pescatorecamille@gmail.com)
+You can reach me on [my LinkedIn profile](https://www.linkedin.com/in/camille-pescatore/)
